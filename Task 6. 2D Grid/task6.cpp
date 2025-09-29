@@ -79,7 +79,6 @@ int main()
         cout << "NONE";
     cout << endl;
 
-    //cout << endl << arr_2d[1][1];
 
     // очистка памяти
     for (size_t i = 0; i < h; ++i) {
